@@ -1,6 +1,6 @@
 # Hi, I'm Makaela! 👋
 
-CS senior at **Wright State University** (grad Spring 2026).
+Computer science senior at **Wright State University** (grad Spring 2026).
 
 ## 📊 GitHub Stats
 ![Makaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelabook&show_icons=true&theme=radical)
